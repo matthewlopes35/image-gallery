@@ -1,0 +1,154 @@
+#January{
+  position: absolute;
+  top: 50px;
+  left: 25px;
+}
+#january:hover{
+  position: absolute;
+  top: 45px;
+  left: 20px;
+  border: 5px solid orange;
+}
+
+
+#February{
+  position: absolute;
+  top: 50px;
+  left: 475px;
+}
+#February:hover{
+  position: absolute;
+  top: 45px;
+  left: 470px;
+  border: 5px solid orange;
+}
+
+
+#March{
+  position: absolute;
+  top: 50px;
+  left: 925px;
+}
+#March:hover{
+  position: absolute;
+  top: 45px;
+  left: 920px;
+  border: 5px solid orange;
+}
+
+
+#April{
+  position: absolute;
+  top: 50px;
+  left: 1375px;
+}
+#April:hover{
+  position: absolute;
+  top: 45px;
+  left: 1370px;
+  border: 5px solid orange;
+}
+
+
+#May{
+  position: absolute;
+  top: 400px;
+  left: 25px;
+}
+#May:hover{
+  position: absolute;
+  top: 395px;
+  left: 20px;
+  border: 5px solid orange;
+}
+
+
+#June{
+  position: absolute;
+  top: 400px;
+  left: 475px;
+}
+#June:hover{
+  position: absolute;
+  top: 395px;
+  left: 470px;
+  border: 5px solid orange;
+}
+
+
+#July{
+  position: absolute;
+  top: 400px;
+  left: 925px;
+}
+#July:hover{
+  position: absolute;
+  top: 395px;
+  left: 920px;
+  border: 5px solid orange;
+}
+
+
+#August{
+  position: absolute;
+  top: 400px;
+  left: 1375px;
+}
+#August:hover{
+  position: absolute;
+  top: 395px;
+  left: 1370px;
+  border: 5px solid orange;
+}
+
+
+#September{
+  position: absolute;
+  top: 700px;
+  left: 25px;
+}
+#September:hover{
+  position: absolute;
+  top: 695px;
+  left: 20px;
+  border: 5px solid orange;
+}
+
+
+#October{
+  position: absolute;
+  top: 700px;
+  left: 475px;
+}
+#October:hover{
+  position: absolute;
+  top: 695px;
+  left: 470px;
+  border: 5px solid orange;
+}
+
+
+#November{
+  position: absolute;
+  top: 700px;
+  left: 925px;
+}
+#November:hover{
+  position: absolute;
+  top: 695px;
+  left: 920px;
+  border: 5px solid orange;
+}
+
+
+#December{
+  position: absolute;
+  top: 700px;
+  left: 1375px;
+}
+#December:hover{
+  position: absolute;
+  top: 695px;
+  left: 1370px;
+  border: 5px solid orange;
+}
